@@ -2,7 +2,7 @@
 
 __Mitä uutta opin osiossa? Miten voisin hyödyntää oppimaani käytännössä?__
 
-Opin komentoja siitö, miten varmistan että versionhallinnassa sekä paikallisesti poistamani ja muokkaamani tiedostot poistuvat molemmista (git rm ja git mw). Aikaisemmin sorruin usein siihen, että poistan tiedostoja manuaalisesti resurssien hallinnassta, jolloin versionhallinnan kanssa tulee ongelmia
+Opin komentoja siitä miten varmistan sen, että versionhallinnasta sekä paikallisesti poistamani ja muokkaamani tiedostot poistuvat molemmista (git rm ja git mw). Aikaisemmin sorruin usein siihen, että poistan tiedostoja manuaalisesti resurssien hallinnasta, jolloin versionhallinnan kanssa tulee ongelmia.
 
 
 
